@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Innovate Solutions Inc.",
+    "industry": "Software",
+    "location": "San Francisco, CA",
+    "status": "Active",
+    "employees": 520,
+    "founded": 2012,
+    "logoUrl": "https://placehold.co/40x40/0E7490/FFFFFF?text=IS"
+  },
+  {
+    "id": 2,
+    "name": "Global Trade Hub",
+    "industry": "Finance",
+    "location": "New York, NY",
+    "status": "Active",
+    "employees": 1200,
+    "founded": 1998,
+    "logoUrl": "https://placehold.co/40x40/9D174D/FFFFFF?text=GT"
+  },
+  {
+    "id": 3,
+    "name": "Eco-Build Construction",
+    "industry": "Construction",
+    "location": "Austin, TX",
+    "status": "On Hold",
+    "employees": 85,
+    "founded": 2018,
+    "logoUrl": "https://placehold.co/40x40/047857/FFFFFF?text=EB"
+  },
+  {
+    "id": 4,
+    "name": "DataStream Analytics",
+    "industry": "Software",
+    "location": "Seattle, WA",
+    "status": "Active",
+    "employees": 310,
+    "founded": 2015,
+    "logoUrl": "https://placehold.co/40x40/4F46E5/FFFFFF?text=DS"
+  },
+  {
+    "id": 5,
+    "name": "Future Retail Group",
+    "industry": "Retail",
+    "location": "Los Angeles, CA",
+    "status": "Active",
+    "employees": 450,
+    "founded": 2005,
+    "logoUrl": "https://placehold.co/40x40/F59E0B/FFFFFF?text=FR"
+  },
+  {
+    "id": 6,
+    "name": "MediCare Systems",
+    "industry": "Healthcare",
+    "location": "Boston, MA",
+    "status": "Active",
+    "employees": 2100,
+    "founded": 1990,
+    "logoUrl": "https://placehold.co/40x40/DB2777/FFFFFF?text=MC"
+  },
+  {
+    "id": 7,
+    "name": "Creative Agency Co.",
+    "industry": "Marketing",
+    "location": "Miami, FL",
+    "status": "Active",
+    "employees": 75,
+    "founded": 2019,
+    "logoUrl": "https://placehold.co/40x40/6366F1/FFFFFF?text=CA"
+  },
+  {
+    "id": 8,
+    "name": "Industrial Robotics Ltd.",
+    "industry": "Manufacturing",
+    "location": "Detroit, MI",
+    "status": "Active",
+    "employees": 950,
+    "founded": 2000,
+    "logoUrl": "https://placehold.co/40x40/10B981/FFFFFF?text=IR"
+  },
+  {
+    "id": 9,
+    "name": "Logistics Pro",
+    "industry": "Transport",
+    "location": "Chicago, IL",
+    "status": "Active",
+    "employees": 150,
+    "founded": 2016,
+    "logoUrl": "https://placehold.co/40x40/EF4444/FFFFFF?text=LP"
+  },
+  {
+    "id": 10,
+    "name": "Global Edutech",
+    "industry": "Education",
+    "location": "Remote",
+    "status": "Active",
+    "employees": 180,
+    "founded": 2021,
+    "logoUrl": "https://placehold.co/40x40/3B82F6/FFFFFF?text=GE"
+  },
+  {
+    "id": 11,
+    "name": "Bright Future Consulting",
+    "industry": "Consulting",
+    "location": "Denver, CO",
+    "status": "Active",
+    "employees": 220,
+    "founded": 2010,
+    "logoUrl": "https://placehold.co/40x40/F97316/FFFFFF?text=BF"
+  },
+  {
+    "id": 12,
+    "name": "SolarTech Innovations",
+    "industry": "Energy",
+    "location": "Phoenix, AZ",
+    "status": "Active",
+    "employees": 430,
+    "founded": 2013,
+    "logoUrl": "https://placehold.co/40x40/84CC16/FFFFFF?text=ST"
+  },
+  {
+    "id": 13,
+    "name": "Urban Eats Co.",
+    "industry": "Food & Beverage",
+    "location": "Portland, OR",
+    "status": "Active",
+    "employees": 120,
+    "founded": 2017,
+    "logoUrl": "https://placehold.co/40x40/8B5CF6/FFFFFF?text=UE"
+  },
+  {
+    "id": 14,
+    "name": "NextGen Biotech",
+    "industry": "Biotechnology",
+    "location": "San Diego, CA",
+    "status": "Active",
+    "employees": 680,
+    "founded": 2008,
+    "logoUrl": "https://placehold.co/40x40/EC4899/FFFFFF?text=NB"
+  },
+  {
+    "id": 15,
+    "name": "Skyline Architects",
+    "industry": "Architecture",
+    "location": "Atlanta, GA",
+    "status": "Active",
+    "employees": 95,
+    "founded": 2014,
+    "logoUrl": "https://placehold.co/40x40/22D3EE/FFFFFF?text=SA"
+  },
+  {
+    "id": 16,
+    "name": "Quantum Solutions",
+    "industry": "Technology",
+    "location": "Austin, TX",
+    "status": "Active",
+    "employees": 520,
+    "founded": 2011,
+    "logoUrl": "https://placehold.co/40x40/4ADE80/FFFFFF?text=QS"
+  },
+  {
+    "id": 17,
+    "name": "Blue Ocean Media",
+    "industry": "Media",
+    "location": "Los Angeles, CA",
+    "status": "Active",
+    "employees": 150,
+    "founded": 2006,
+    "logoUrl": "https://placehold.co/40x40/0EA5E9/FFFFFF?text=BO"
+  },
+  {
+    "id": 18,
+    "name": "Peak Financial Advisors",
+    "industry": "Finance",
+    "location": "Chicago, IL",
+    "status": "Active",
+    "employees": 240,
+    "founded": 2003,
+    "logoUrl": "https://placehold.co/40x40/F43F5E/FFFFFF?text=PF"
+  },
+  {
+    "id": 19,
+    "name": "Green Earth Logistics",
+    "industry": "Transport",
+    "location": "Houston, TX",
+    "status": "Active",
+    "employees": 310,
+    "founded": 2010,
+    "logoUrl": "https://placehold.co/40x40/22C55E/FFFFFF?text=GE"
+  },
+  {
+    "id": 20,
+    "name": "Innovative Learning Hub",
+    "industry": "Education",
+    "location": "Remote",
+    "status": "Active",
+    "employees": 200,
+    "founded": 2019,
+    "logoUrl": "https://placehold.co/40x40/6366F1/FFFFFF?text=IL"
+  }
+]
